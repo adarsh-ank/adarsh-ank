@@ -51,7 +51,7 @@
 📧 Email: adarshankolekar965@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/your-linkedin
+https://www.linkedin.com/in/Adarsh-Ankolekar
 
 ---
 
