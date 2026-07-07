@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there, I'm Adarsh Ankolekar 👋
 
-<!--
-**adarsh-ank/adarsh-ank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+🎓 B.E. in Computer Science & Engineering (Data Science)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+- Java
+- Data Structures & Algorithms
+- Spring Boot
+- React
+- MySQL
+
+🚀 Passionate about building real-world software and continuously improving my problem-solving skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks & Tools
+- Spring Boot
+- React
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- MySQL
+- MongoDB
+
+---
+
+## 📌 Current Focus
+
+- Solving DSA problems
+- Building Full Stack Projects
+- Preparing for Software Engineering roles
+- Learning System Design fundamentals
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: adarshankolekar965@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/your-linkedin
+
+---
+
+⭐ Thanks for visiting my profile!
